@@ -1,1 +1,1 @@
-# projeto_dio_poo_python
+## Este repositório contém um projeto desenvolvido para a Escola de Formação DIO. O objetivo é otimizar um script que simula um sistema bancário, aplicando as regras e métodos da programação orientada a objetos.
